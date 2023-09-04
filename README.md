@@ -6,7 +6,20 @@ and masking urls
 
 
 
-how to install in termux and kali
+installation in termux and kali
+
+
+pkg update
+
+
+
+pkg upgrade
+
+
+
+
+
+pkg install git
 
 
 
